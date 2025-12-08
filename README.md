@@ -15,7 +15,7 @@ This repository contains tools and scripts designed to help recruitment professi
 
 ## Purpose
 
-Helps staffing agencies and HR departments ensure job postings meet best practices and legal requirements.
+Helps hiring authorities, recruiters and any parties who advertise opportunities for hiring to ensure their job postings meet best practices and legal requirements. Optimizes the efforts made by legitimate hiring authorities by incorporating standards implemented by regulators such asEEOC, DOL, state labor departments, and industry-specific regulators.
 
 ## Status
 
